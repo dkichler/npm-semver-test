@@ -1,0 +1,9 @@
+{
+  "name": "npm-semver-resolution-test",
+  "dependencies": {
+    "npm-semver-dep": "dkichler/npm-semver-dep#semver:^1.0.0"
+  },
+  "engines": {
+    "node": ">=8.0.0"
+  }
+}
